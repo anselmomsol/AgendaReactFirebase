@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap");
+
+body {
+  background-image: url(./madera.jpg);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: 108%;
+}
+
+h2 {
+  color: azure;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  font-family: "RocknRoll One", sans-serif;
+}
+
+li {
+  font-family: "RocknRoll One", sans-serif;
+  font-size: small;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  font-family: "RocknRoll One", sans-serif;
+  font-size: small;
+}
+
+input {
+  font-family: "RocknRoll One", sans-serif;
+  font-size: small;
+  margin-bottom: 25px;
+}
+
+span{
+    color:azure;
+    font-family: "RocknRoll One", sans-serif;
+    font-size: medium;
+}
