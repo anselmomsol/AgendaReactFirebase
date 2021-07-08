@@ -1,3 +1,7 @@
+#App creada con React, Bootstrap y Firebase.
+Permite crear un usuario con su número telefónico, editarlo y borrarlo.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
