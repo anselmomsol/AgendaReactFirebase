@@ -1,4 +1,4 @@
-#App creada con React, Bootstrap y Firebase.
+App creada con React, Bootstrap y Firebase.
 Permite crear un usuario con su número telefónico, editarlo y borrarlo.
 
 
